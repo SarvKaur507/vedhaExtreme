@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wdAG3E+I7YZyYgRviLRAqxhM2qt67uJP15773JCAkFErC+o7OU77vELSihujD6cNinKXRO//qoiGIP6bsOJdKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sarvk\\source\\repos\\CreationNotion\\CreationNotion\\CreationNotion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sarvk\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sarvk\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sarvk\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\sarvk\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\sarvk\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\sarvk\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
